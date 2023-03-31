@@ -1,4 +1,4 @@
 # perpus
 
-Nama = Andrian Dwi Putra
-Kelas = X Tel 8
+Nama = ANDRIAN DWI PUTRA WIBOWO
+Kelas = X TEL 8
